@@ -1,8 +1,12 @@
 name: Update Marvel Calendar
+
 on:
   schedule:
-    - cron: '0 9 * * 1'  # elke maandag om 09:00
+    - cron: '0 9 * * 1'  # elke maandag 09:00
   workflow_dispatch:
+
+permissions:
+  contents: write  # 👈 DIT TOEVOEGEN!
 
 jobs:
   build:
@@ -13,7 +17,10 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install -r requirements.txt
-      - run: python generate.py
+      - name: Run generator
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python generate.py
       - name: Commit updated ICS
         run: |
           git config user.name "GitHub Actions"
