@@ -5,21 +5,21 @@ BEGIN:VEVENT
 DESCRIPTION:An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.
 DTSTART:20271216T000000Z
 SUMMARY:Avengers: Secret Wars
-UID:6fc18527-17a4-497e-84d8-dd88cedda932@6fc1.org
+UID:278b67f5-13b0-4a72-89c0-2d105f6104c2@278b.org
 URL:https://www.themoviedb.org/movie/1003598
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Avengers\, Wakandans\, Fantastic Four\, Thunderbolts\, and X-Men all fight against Doctor Doom. Plot TBA.
 DTSTART:20261216T000000Z
 SUMMARY:Avengers: Doomsday
-UID:d211fb76-d78b-4beb-b5d5-e8c83b01a543@d211.org
+UID:fcaf1ca7-e2f6-4e4c-b037-d1c943db1ada@fcaf.org
 URL:https://www.themoviedb.org/movie/1003596
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The fourth installment in the Spider-Man franchise and part of Phase Six of the Marvel Cinematic Universe (MCU). Plot TBA.
 DTSTART:20260729T000000Z
 SUMMARY:Spider-Man: Brand New Day
-UID:07405d95-16d3-4ee7-8b5f-3ba51f705410@0740.org
+UID:e1a4f8fa-5f55-4e12-9a42-ffc41ef0b586@e1a4.org
 URL:https://www.themoviedb.org/movie/969681
 END:VEVENT
 END:VCALENDAR
