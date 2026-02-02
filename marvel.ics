@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:The Avengers\, Wakandans\, Fantastic Four\, Thunderbolts\, and X-Men all fight against Doctor Doom. Plot TBA.
-DTSTART:20261216T000000Z
-SUMMARY:Avengers: Doomsday
-UID:51a67397-60cd-4139-81e6-0b0a61ff8174@51a6.org
-URL:https://www.themoviedb.org/movie/1003596
+DESCRIPTION:An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.
+DTSTART:20271216T000000Z
+SUMMARY:Avengers: Secret Wars
+UID:b1a29976-b25c-4265-97d2-9b2a8d2c99f8@b1a2.org
+URL:https://www.themoviedb.org/movie/1003598
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The fourth installment in the Spider-Man franchise and part of Phase Six of the Marvel Cinematic Universe (MCU). Plot TBA.
 DTSTART:20260729T000000Z
 SUMMARY:Spider-Man: Brand New Day
-UID:664c8a11-954c-4ea1-a8c9-57a2ba1830e1@664c.org
+UID:62633793-e997-4767-9a30-4b148c8d18f1@6263.org
 URL:https://www.themoviedb.org/movie/969681
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.
-DTSTART:20271216T000000Z
-SUMMARY:Avengers: Secret Wars
-UID:1a5f6a01-fb40-44e9-b8d3-140527acc274@1a5f.org
-URL:https://www.themoviedb.org/movie/1003598
+DESCRIPTION:The Avengers\, Wakandans\, Fantastic Four\, Thunderbolts\, and X-Men all fight against Doctor Doom. Plot TBA.
+DTSTART:20261216T000000Z
+SUMMARY:Avengers: Doomsday
+UID:2e251af2-b67f-4ce9-b362-27e68ff487b1@2e25.org
+URL:https://www.themoviedb.org/movie/1003596
 END:VEVENT
 END:VCALENDAR
