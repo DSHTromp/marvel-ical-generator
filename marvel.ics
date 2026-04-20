@@ -2,24 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:The Avengers\, Wakandans\, Fantastic Four\, Thunderbolts\, and X-Men all fight against Doctor Doom. Plot TBA.
-DTSTART:20261216T000000Z
-SUMMARY:Avengers: Doomsday
-UID:73967bc4-8ea1-48db-8312-07b1bc85bd43@7396.org
-URL:https://www.themoviedb.org/movie/1003596
+DESCRIPTION:Four years have passed since the events of No Way Home\, and Peter is now an adult living entirely alone\, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name\, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify\, the pressure sparks a surprising physical evolution that threatens his existence\, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.
+DTSTART:20260729T000000Z
+SUMMARY:Spider-Man: Brand New Day
+UID:f7c229d6-8054-48f2-baed-79b13481119c@f7c2.org
+URL:https://www.themoviedb.org/movie/969681
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As Frank Castle searches for meaning beyond revenge\, an unexpected force pulls him back into the fight.
+DTSTART:20260512T000000Z
+SUMMARY:The Punisher: One Last Kill
+UID:7116a458-08db-48d2-8b90-4ef83db816ef@7116.org
+URL:https://www.themoviedb.org/movie/1439930
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.
 DTSTART:20271216T000000Z
 SUMMARY:Avengers: Secret Wars
-UID:1ad9e3ec-2446-41db-8814-f287cf044315@1ad9.org
+UID:c6df3a28-7841-4271-8417-bbb133a40dd1@c6df.org
 URL:https://www.themoviedb.org/movie/1003598
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The fourth installment in the Spider-Man franchise and part of Phase Six of the Marvel Cinematic Universe (MCU). Plot TBA.
-DTSTART:20260729T000000Z
-SUMMARY:Spider-Man: Brand New Day
-UID:574f1d44-246d-4cbc-8763-008f908ae7af@574f.org
-URL:https://www.themoviedb.org/movie/969681
+DESCRIPTION:Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.
+DTSTART:20261216T000000Z
+SUMMARY:Avengers: Doomsday
+UID:f024f4ef-8ddd-4754-9996-6d8043786957@f024.org
+URL:https://www.themoviedb.org/movie/1003596
 END:VEVENT
 END:VCALENDAR
